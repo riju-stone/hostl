@@ -1,4 +1,4 @@
-# hostel
+# hostl
 A simple deployment & hosting service/platform - kinda like Vercel
 
 # why
